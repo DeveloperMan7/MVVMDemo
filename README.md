@@ -5,9 +5,7 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 
 首先了解一下MVVM的架构
 
-![MVVM](http://teehanlax.com.s3.amazonaws.com/wordpress/wp-content/uploads/mvvm1.png)
-
-图片来自http://www.teehanlax.com/blog/model-view-viewmodel-for-ios/
+![MVVM](https://github.com/DeveloperMan7/MVVMDemo/blob/master/image/mvvm.png)
 
 ### MVVMDemo的架构
 
