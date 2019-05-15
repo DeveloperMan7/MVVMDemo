@@ -7,6 +7,10 @@ MVVM来自[微软](https://msdn.microsoft.com/en-us/library/hh848246.aspx)，是
 
 ![MVVM](https://github.com/DeveloperMan7/MVVMDemo/blob/master/image/mvvm.png)
 
+再来看下经典的MVC
+
+![MVC](https://github.com/DeveloperMan7/MVVMDemo/blob/master/image/mvc.png)
+
 ### MVVMDemo的架构
 
 ![](http://7u2k5i.com1.z0.glb.clouddn.com/github_mvvmdemo1.png?imageMogr2/thumbnail/!50p)
