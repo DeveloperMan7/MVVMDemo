@@ -21,6 +21,8 @@
 		0A55390B1B40205200E8457B /* TableViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A5538FF1B40205200E8457B /* TableViewDelegate.m */; };
 		0A55390C1B40205200E8457B /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A5539021B40205200E8457B /* CustomTableViewCell.m */; };
 		0A55390D1B40205200E8457B /* TableViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A5539051B40205200E8457B /* TableViewModel.m */; };
+		CC9B3CD722953CC300137AB1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC9B3CD622953CC300137AB1 /* ViewController.m */; };
+		CC9B3CDA22953CCF00137AB1 /* HeartView.m in Sources */ = {isa = PBXBuildFile; fileRef = CC9B3CD822953CCF00137AB1 /* HeartView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +64,10 @@
 		0A5539021B40205200E8457B /* CustomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTableViewCell.m; sourceTree = "<group>"; };
 		0A5539041B40205200E8457B /* TableViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewModel.h; sourceTree = "<group>"; };
 		0A5539051B40205200E8457B /* TableViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewModel.m; sourceTree = "<group>"; };
+		CC9B3CD522953CC300137AB1 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CC9B3CD622953CC300137AB1 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CC9B3CD822953CCF00137AB1 /* HeartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeartView.m; sourceTree = "<group>"; };
+		CC9B3CD922953CCF00137AB1 /* HeartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeartView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +117,8 @@
 				0A5538EF1B40205200E8457B /* 3rdLibs */,
 				0A5538631B40096700E8457B /* AppDelegate.h */,
 				0A5538641B40096700E8457B /* AppDelegate.m */,
+				CC9B3CD522953CC300137AB1 /* ViewController.h */,
+				CC9B3CD622953CC300137AB1 /* ViewController.m */,
 				0A5538691B40096700E8457B /* Main.storyboard */,
 				0A55386C1B40096700E8457B /* Images.xcassets */,
 				0A55386E1B40096700E8457B /* LaunchScreen.xib */,
@@ -197,6 +205,8 @@
 		0A5539001B40205200E8457B /* View */ = {
 			isa = PBXGroup;
 			children = (
+				CC9B3CD922953CCF00137AB1 /* HeartView.h */,
+				CC9B3CD822953CCF00137AB1 /* HeartView.m */,
 				0A5539011B40205200E8457B /* CustomTableViewCell.h */,
 				0A5539021B40205200E8457B /* CustomTableViewCell.m */,
 			);
@@ -273,6 +283,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -317,6 +328,8 @@
 				0A5538621B40096700E8457B /* main.m in Sources */,
 				0A5539091B40205200E8457B /* CustomModel.m in Sources */,
 				0A55390B1B40205200E8457B /* TableViewDelegate.m in Sources */,
+				CC9B3CDA22953CCF00137AB1 /* HeartView.m in Sources */,
+				CC9B3CD722953CC300137AB1 /* ViewController.m in Sources */,
 				0A55390C1B40205200E8457B /* CustomTableViewCell.m in Sources */,
 				0A5539071B40205200E8457B /* YiRefreshHeader.m in Sources */,
 				0A55390D1B40205200E8457B /* TableViewModel.m in Sources */,
